@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteroidMerchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7421b5767339f6280710f59e520a954c03f930ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6144da1bef547ff28aa96f8f450c5dd09d65af80")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteroidMerchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteroidMerchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SteroidMerchApp
 build_property.RootNamespace = SteroidMerchApp
@@ -40,6 +48,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shirts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shirts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shirts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shirts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Shirts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpcnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Steroids/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rlcm9pZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Steroids/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rlcm9pZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Steroids/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rlcm9pZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Steroids/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rlcm9pZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/Steroids/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rlcm9pZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/pavka/OneDrive/Documents/Програвиране C\#/SteroidMerch/SteroidMerchApp/Views/_ViewImports.cshtml]
